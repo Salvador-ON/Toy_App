@@ -1,6 +1,6 @@
 # Microverse - RUBY ON RAILS -Toy APP
 
-> In this project, We got the chance to build our FIRST RUBY on Rails App. Following the instruction displayed in [The Odin Project](https://www.theodinproject.com/courses/ruby-on-rails/lessons/getting-your-feet-wet)
+> In this project, We got the chance to build our FIRST Ruby on Rails App. Following the instruction displayed in [The Odin Project](https://www.theodinproject.com/courses/ruby-on-rails/lessons/getting-your-feet-wet)
 
 
 ## Built With
@@ -23,7 +23,7 @@
 - Twitter: [@Salvador Olvera_ON](https://twitter.com/Salvador_ON)
 - Github: [@Salvador-ON](https://github.com/Salvador-ON)
 
-**Daniel Laloush**
+**Oscar Russi**
 - Linkedin: [Oscar Russi](https://www.linkedin.com/in/oscar-andr%C3%A9s-russi-porras-053236167/)
 - Github: [@andresporras3423](https://www.linkedin.com/in/oscar-andr%C3%A9s-russi-porras-053236167/)
 
