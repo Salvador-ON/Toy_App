@@ -61,6 +61,12 @@ class UsersController < ApplicationController
     end
   end
 
+  def show
+    # find the user record
+    @user = User.find(params[:id])
+    @micropost = @user.microposts.first
+  end
+
   private
     # Use callbacks to share common setup or constraints between actions.
     def set_user
