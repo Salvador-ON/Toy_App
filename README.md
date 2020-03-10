@@ -3,13 +3,14 @@
 > In this project, We got the chance to build our FIRST RUBY on Rails App. Following the instruction displayed in [The Odin Project](https://www.theodinproject.com/courses/ruby-on-rails/lessons/getting-your-feet-wet)
 
 
-
 ## Built With
 
 - RUBY
 - Rails
 - Visual Studio Code
 
+## Live Demo
+- [Heroku](https://guarded-stream-28098.herokuapp.com/users/2)
 
 ## Getting Started
 
