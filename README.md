@@ -5,9 +5,9 @@
 
 ## Built With
 
-- RUBY
-- Rails
-- Visual Studio Code
+- RUBY.
+- Rails.
+- Visual Studio Code.
 
 ## Live Demo
 - [Heroku](https://guarded-stream-28098.herokuapp.com/users/2)
@@ -30,18 +30,13 @@
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!
+Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](./issues/).
 
 ## Show your support
 
 Give as ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Thanks to Microverse!
 
 ## 📝 License
 
