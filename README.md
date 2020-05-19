@@ -1,12 +1,12 @@
-# Microverse - RUBY ON RAILS -Toy APP
+# Microverse - Ruby on Rails -Toy APP
 
 > In this project, We got the chance to build our FIRST Ruby on Rails App. Following the instruction displayed in [The Odin Project](https://www.theodinproject.com/courses/ruby-on-rails/lessons/getting-your-feet-wet)
 
 
 ## Built With
 
-- RUBY.
-- Rails.
+- Ruby.
+- Ruby on Rails.
 - Visual Studio Code.
 
 ## Live Demo
